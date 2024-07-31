@@ -103,8 +103,9 @@
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Ohio</InArgument>
-          <InArgument x:TypeArguments="x:String">Michigan</InArgument>
+          <InArgument x:TypeArguments="x:String">Denver</InArgument>
           <InArgument x:TypeArguments="x:String">Alabama</InArgument>
+          <InArgument x:TypeArguments="x:String">Kansas</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
